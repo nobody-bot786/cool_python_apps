@@ -16,4 +16,4 @@ my_followers = bot.get_user_followers("anyone")
 for follower in my_followers:
     print(follower)
 
-bot.(activ)
+bot.("activ")
